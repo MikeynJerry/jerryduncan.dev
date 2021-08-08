@@ -1,0 +1,218 @@
+{
+  "main": {
+    "name": "Jerry Duncan",
+    "occupation": "Machine Learning Engineer Intern",
+    "description": " currently employed by",
+    "image": "profilepic.jpg",
+    "bio": "Helping people is my number one passion. I love finding ways to combine machine learning and web development to enrich other people's lives. My favorite hobbies involve playing games and creating new ways to bond over them. In the winter you can find me skiing on the slopes and I'll never turn down a game of kickball.",
+    "email": "jeremiah.duncan97@gmail.com",
+    "phone": "650-396-9545",
+    "address": {
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37909"
+    },
+    "employer": "ByteDance",
+    "jobDescription": "work on deep learning frameworks, distributed training, and a whole lot more.",
+    "website": "https://www.jerryduncan.dev",
+    "resumedownload": "https://drive.google.com/file/d/1fu2LpZAQ2-tPxNrYxsGORoIukbBrQe77/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/MikeynJerry/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jeremiah-d-0993b583/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MikeynJerry",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:jeremiah.duncan97@gmail.com?subject=Jerry%20Duncan%20Portfolio",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My programming career has been extremely diverse thus far. I started in software engineering, moved to data visualization, and then to machine learning. I have relevant skills from all three fields and enjoy working on projects where I can combine all three.",
+    "education": [
+      {
+        "school": "University of Tennessee, Knoxville",
+        "degree": "PhD in Computer Vision",
+        "graduated": "TBD",
+        "description": "Working with Dr. Amir Sadovnik on Adversarial Machine Learning problems in Computer Vision and Natural Language Processing."
+      },
+      {
+        "school": "University of Tennessee, Knoxville",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2019",
+        "description": "Focused on Software Engineering and Data Visualization."
+      }
+    ],
+    "work": [
+      {
+        "company": "ByteDance",
+        "title": "Machine Learning Engineer Intern",
+        "years": "May 2021 - Aug. 2021",
+        "description": "Integrated new distributed training backend into an ML framework to increase model training speed up to 2x at scale. Worked with internal customers to convert their codebases to work with our ML framework to increase researcher productivity."
+      },
+      {
+        "company": "EECS Department, UTK",
+        "title": "Graduate Teaching Assistant",
+        "years": "Aug. 2019 - Dec. 2019",
+        "description": "Planned, developed, and taught custom lesson plans for the lab portion of CS 102. Tutored students in C++ and Data Structures."
+      }
+    ],
+    "research": [
+      {
+        "company": "UVULab - Computer Vision and Natural Language Processing, UTK",
+        "title": "Graduate Research Assistant",
+        "years": "Aug. 2019 - Present",
+        "description": "Developed an adversarial attack on image classifiers that facilitates creating adversarial images that keep their adversariality through resizing filters used in common image classification pipelines which resulted in a publication. Investigating potential adversarial attacks on text classifiers using sentence rewriting and paraphrasing methods to create adversarial text examples that keep overall sentence meaning while tricking LSTMs and Transformers."
+      },
+      {
+        "company": "Seelab - Data Visualization, UTK",
+        "title": "Undergraduate Research Assistant",
+        "years": "Jan. 2018 - Aug. 2019",
+        "description": "Helped develop and implement a way to save and share interactive, computation-heavy visualizations across the web using Electron, Python, and JavaScript which resulted in a publication. Helped develop and implement a way to extend web visualizations to the real-world in Augmented Reality space using JavaScript, THREE.js, and THREE.AR.js which resulted in a publication. Designed a web visualization of Great Smoky Mountains National Park in collaboration with the National Park Service that tracks the location of different wildlife species overlaid on a map of the park."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python (Advanced)"
+      },
+      {
+        "name": "JavaScript (Advanced)"
+      },
+      {
+        "name": "Tensorflow / Keras (Advanced)"
+      },
+      {
+        "name": "PyTorch (Advanced)"
+      },
+      {
+        "name": "NumPy / scikit-learn / pandas"
+      },
+      {
+        "name": "Matplotlib / D3.js"
+      },
+      {
+        "name": "Cloud VM Deployment / Docker / REST APIs"
+      }
+    ],
+    "classes": [
+      {
+        "name": "Natural Language Processing"
+      },
+      {
+        "name": "Reinforcement Learning"
+      },
+      {
+        "name": "Deep Learning"
+      },
+      {
+        "name": "Machine Learning"
+      },
+      {
+        "name": "Digital Image Processing"
+      },
+      {
+        "name": "Linear Algebra I"
+      },
+      {
+        "name": "Probability and Random Variables"
+      },
+      {
+        "name": "Calculus I, II, & III"
+      },
+      {
+        "name": "Software Engineering"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "One Size Does Not Fit All: Transferring Adversarial Attacks Across Sizes",
+        "category": "CVPR Workshop on Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges, 2021",
+        "image": "one-size.png",
+        "url": "https://aisecure-workshop.github.io/amlcvpr2021/cr/10.pdf",
+        "type": "research"
+      },
+      {
+        "title": "Dataless Sharing of Interactive Visualization",
+        "category": "IEEE Transactions on Visualization and Computer Graphics, 2020",
+        "image": "dataless-sharing.png",
+        "url": "https://ieeexplore.ieee.org/document/9056539",
+        "type": "research"
+      },
+      {
+        "title": "Alpaca: AR Graphics Extensions for Web Applications",
+        "category": "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2020",
+        "image": "alpaca.png",
+        "url": "https://ieeexplore.ieee.org/document/9089587",
+        "type": "research"
+      },
+      {
+        "title": "Adversarial NLP",
+        "category": "Visualizations of NLP models when being attacked by adversarial text.",
+        "image": "ece692.png",
+        "url": "https://ece692-nlp.web.app/",
+        "type": "ml"
+      },
+      {
+        "title": "BERT GloVe Embeddings",
+        "category": "Creating BERT Embeddings that lie in GloVe space.",
+        "image": "bert-glove-embeddings.png",
+        "url": "https://github.com/MikeynJerry/bert-glove-embeddings",
+        "type": "ml"
+      },
+      {
+        "title": "VocaCoord",
+        "category": "An app for helping hearing and learning impaired children by using Speech-To-Text to pick up important words in teacher lesson plans and show kid-friendly definitions and pictures.",
+        "image": "vocacoord.png",
+        "url": "https://vocacoord.web.app/",
+        "type": "swe"
+      },
+      {
+        "title": "Super Smash Brothers Club",
+        "category": "A website for a fictitious Super Smash Brothers Club.",
+        "image": "ssbc.png",
+        "url": "https://eng360-ssbc.web.app/",
+        "type": "swe"
+      },
+      {
+        "title": "Super Smash Brothers Ultimate",
+        "category": "A guide to playing Super Smash Brothers Ultimate.",
+        "image": "ssbu.png",
+        "url": "https://eng360-ssbu.web.app/",
+        "type": "swe"
+      },
+      {
+        "title": "Great Smokey Mountains National Park",
+        "category": "Web visualization of the Great Smokey Mountains National Park that tracks the location of different wildlife species on a map of the park.",
+        "image": "nps.png",
+        "url": "https://maps.nps.gov/species/",
+        "type": "swe"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
